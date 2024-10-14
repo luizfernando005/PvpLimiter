@@ -1,0 +1,17 @@
+C:\Users\Mathias\source\repos\PvpLimiter\PvpLimiter\bin\Debug\PvpLimiter.dll
+C:\Users\Mathias\source\repos\PvpLimiter\PvpLimiter\bin\Debug\PvpLimiter.pdb
+C:\Users\Mathias\source\repos\PvpLimiter\PvpLimiter\bin\Debug\AdvancedZones.dll
+C:\Users\Mathias\source\repos\PvpLimiter\PvpLimiter\bin\Debug\Assembly-CSharp.dll
+C:\Users\Mathias\source\repos\PvpLimiter\PvpLimiter\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\Mathias\source\repos\PvpLimiter\PvpLimiter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mathias\source\repos\PvpLimiter\PvpLimiter\bin\Debug\Rocket.API.dll
+C:\Users\Mathias\source\repos\PvpLimiter\PvpLimiter\bin\Debug\Rocket.Core.dll
+C:\Users\Mathias\source\repos\PvpLimiter\PvpLimiter\bin\Debug\Rocket.Unturned.dll
+C:\Users\Mathias\source\repos\PvpLimiter\PvpLimiter\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Mathias\source\repos\PvpLimiter\PvpLimiter\bin\Debug\UnityEngine.dll
+C:\Users\Mathias\source\repos\PvpLimiter\PvpLimiter\obj\Debug\PvpLimiter.csproj.AssemblyReference.cache
+C:\Users\Mathias\source\repos\PvpLimiter\PvpLimiter\obj\Debug\PvpLimiter.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\source\repos\PvpLimiter\PvpLimiter\obj\Debug\PvpLimiter.csproj.CopyComplete
+C:\Users\Mathias\source\repos\PvpLimiter\PvpLimiter\obj\Debug\PvpLimiter.dll
+C:\Users\Mathias\source\repos\PvpLimiter\PvpLimiter\obj\Debug\PvpLimiter.pdb
+C:\Users\Mathias\source\repos\PvpLimiter\PvpLimiter\bin\Debug\SDG.NetTransport.dll
